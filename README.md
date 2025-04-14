@@ -1,99 +1,67 @@
 # zhoujie2209010004
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>简历</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        .contact-info {
-            margin-bottom: 20px;
-        }
-        .section {
-            margin-bottom: 30px;
-        }
-        .section-title {
-            border-bottom: 2px solid #007bff;
-            padding-bottom: 5px;
-        }
-        .profile-photo {
-            float: left;
-            margin-right: 20px;
-            border-radius: 50%;
-        }
-    </style>
-</head>
-<body>
+# 周杰
 
-<div class="container">
-    <h1>个人简历</h1>
-    <img src="file:///C:/Users/Administrator/Desktop/QQ图片20250303202616.jpg" alt="周杰" class="profile-photo" width="150" height="150">
-    <div class="contact-info">
-        <p>姓名：周杰</p>
-        <p>电话：15399787157</p>
-        <p>邮箱：1959089216@qq.com</p>
-        <p>地址：湖南省长沙市岳麓区</p>
-    </div>
-    <div style="clear: both;"></div>
+📧 邮箱：your-email@example.com | 📱 电话：(+86) 138-XXXX-XXXX  
+📍 地址：上海市浦东新区 | 🌐 个人网站/博客：[example.com](https://example.com)  
+💼 LinkedIn：[周杰-LinkedIn](https://linkedin.com/in/zhoujie) | 🖥 GitHub：[@zhoujie](https://github.com/zhoujie)
 
-    <div class="section">
-        <h2 class="section-title">教育背景</h2>
-        <p>本科，信息管理与信息系统，湖南工商大学，2022年9月 - 2026年6月</p>
-    </div>
+---
 
-    <div class="section">
-        <h2 class="section-title">工作经历</h2>
-        <h3>软件实习生</h3>
-        <p>湖南省电子商务协会科技公司，2023年6月 - 2023年9月</p>
-        <ul>
-            <li>参与项目开发与测试，协助团队完成多项任务。</li>
-            <li>撰写项目文档，整理开发过程中的技术细节。</li>
-        </ul>
-    </div>
+## 📌 职业概述
+> *全栈开发工程师 | 5年互联网行业经验*  
+专注于Web开发与移动端应用，擅长React/Vue框架和Node.js后端开发，有从0到1的产品落地经验。
 
-    <div class="section">
-        <h2 class="section-title">技能</h2>
-        <ul>
-            <li>编程语言：Java, Python, C++</li>
-            <li>前端技术：HTML, CSS, JavaScript</li>
-            <li>数据库：MySQL, MongoDB</li>
-        </ul>
-    </div>
+---
 
-    <div class="section">
-        <h2 class="section-title">项目经历</h2>
-        <h3>个人博客网站</h3>
-        <p>描述：基于HTML、CSS和JavaScript开发的个人博客网站，展示个人技术文章。</p>
-        
-        <h3>在线学习平台</h3>
-        <p>描述：参与设计和实现一个在线学习平台的后端，使用Java和Spring框架。</p>
-    </div>
+## 🛠 技术栈
+- **前端**：JavaScript/TypeScript, React, Vue.js, HTML5/CSS3
+- **后端**：Node.js, Python(Django), MySQL, MongoDB
+- **工具**：Git, Docker, Webpack, AWS
+- **其他**：敏捷开发, 单元测试, CI/CD
 
-    <div class="section">
-        <h2 class="section-title">荣誉与获奖</h2>
-        <ul>
-            <li>获得湖南工商大学优秀学生大学学术优秀奖（2022年）</li>
-            <li>参加ACM编程比赛，获省级二等奖（2023年）</li>
-        </ul>
-    </div>
-</div>
+---
 
-</body>
-</html>
+## 💼 工作经历
+
+### **高级软件工程师** | ABC科技有限公司 (2020.06 - 至今)
+- 主导开发公司核心产品「XX系统」，用户增长300%
+- 使用React重构前端架构，首屏加载时间优化40%
+- 设计并实现微服务架构，QPS提升至5000+
+
+### **全栈开发工程师** | XYZ初创公司 (2017.07 - 2020.05)
+- 参与从0到1开发SaaS平台，3个月内完成MVP版本
+- 实现实时数据可视化功能，获客户好评
+
+---
+
+## 🎓 教育背景
+**计算机科学与技术 硕士** | 上海交通大学 (2014.09 - 2017.06)  
+- 主修课程：数据结构、分布式系统、机器学习
+- 毕业论文：《基于深度学习的图像识别优化研究》
+
+**软件工程 学士** | 南京大学 (2010.09 - 2014.06)
+
+---
+
+## � 项目经验
+### 智能客服系统 (2022)
+- 技术栈：Vue3 + Spring Boot + NLP
+- 实现意图识别准确率92%，客户投诉率下降35%
+
+### 电商促销平台 (2019)
+- 技术栈：React + Node.js + Redis
+- 双十一期间稳定支持10万+并发请求
+
+---
+
+## 📜 证书与奖项
+- AWS认证解决方案架构师 (2021)
+- 全国大学生编程竞赛一等奖 (2013)
+- CET-6 英语六级 (623分)
+
+---
+
+## 🧩 附加技能
+- 英语流利（可技术文档写作）
+- 技术大会演讲经历（3场200+人规模）
+- 开源项目贡献者（Apache项目）
